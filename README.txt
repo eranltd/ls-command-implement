@@ -1,7 +1,5 @@
-303174890
-Eran Peled
 
-ערן פלד
+Eran Peled
 
 used the following line for compiling on my MACBOOK pro
 
